@@ -1,0 +1,5 @@
+Day 4 Reading
+
+My Analysis --
+I found the "2024 Breaking Into Data Engineering Roadmap" directly applicable to my career goals. The guidance on mastering SQL for pipeline design, Python for orchestration, and Spark UDFs, as well as building portfolio projects like analytics dashboards, aligns perfectly with my own learning trajectory and technical interests. The emphasis on LinkedIn networking and personal branding resonates as well, as I’m actively focused on leveraging my experience and outreach skills to secure referrals and land impactful data engineering or cloud product roles.
+
